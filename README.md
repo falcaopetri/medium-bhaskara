@@ -1,0 +1,2 @@
+
+Este repositório possui as visualizações utilizadas no post [**Quando Bhaskara encontra a Estatística**](https://bit.ly/fp_bhaskara_stats), utilizando a ferramenta [Manim](https://www.manim.community/).
